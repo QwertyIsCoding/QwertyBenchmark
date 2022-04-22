@@ -1,0 +1,33 @@
+This is a benchmark made by QwertyIsCoding and is a Blender Render test. 
+
+About-
+Ideally to be used on Blender 2.83
+This is a 8K render and at 24 FPS. 
+The scene is a loop of the scene going from day to night and back to day.
+Renders with Cycles.
+This is the alpha README file and will be updated before final release on github.com/qwertyiscoding. 
+The preview is a still image and remember, the actual benchmark is a video.
+
+ALPHA TESTING
+If you are reading this, then state your system specs below:
+CPU - 
+GPU - 
+RAM - 
+Blender Verion - 
+OS - 
+OS Version - 
+Type of system(dekstop, laptop) - 
+
+Minimum requirements to run the render smoothly - 
+8GB ram
+Intel i5(U processors work too)
+Intel HD 500 or higher
+(AMD equivalents or higher work too)
+
+This render was tested on QwertyIsThinking's personal system. If you have any questions, add then below:
+
+____________________________________________________________________
+
+This render is also going to be pretty hard on the testing system so please ensure you have a good power supply and cooling.
+
+To contact me, DM me in Discord or email me at qwertymail@duck.com. 
